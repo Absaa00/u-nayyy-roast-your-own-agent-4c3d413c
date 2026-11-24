@@ -1,0 +1,11 @@
+# Roast entry — ignore local run outputs and editor clutter
+/output/
+/entry.txt
+*.pyc
+__pycache__/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
